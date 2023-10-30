@@ -1,5 +1,4 @@
-# Project Name
-House Price Prediction - Assignment Solution
+# Project Name - House Price Prediction - Assignment Solution
 
 A US-based housing company named Surprise Housing has decided to enter the Australian market. 
 The company uses data analytics to purchase houses at a price below their actual values and 
@@ -12,16 +11,16 @@ prospective properties and decide whether to invest in them or not.
 
 The solution is divided into the following sections as per Crisp DM framework:
 
-Crisp DM framework
-Business Understanding
-Data Understanding and exploration
-Data preparation
-Initial Modelling building
-Applying regularization
-Model building and evaluation
-Model Deployment
-
+## Crisp DM framework
 1. Business Understanding
+2. Data Understanding and exploration
+3. Data preparation
+4. Initial Modelling building
+5. Applying regularization
+6. Model building and evaluation
+7. Model Deployment
+
+## Business Understanding
 Understand the company’s objectives
 
 The company wants to know:
@@ -29,7 +28,7 @@ The company wants to know:
 Which variables are significant in predicting the price of a house, and
 How well those variables describe the price of a house.
 
-Business Goal:
+## Business Goal:
 I am required to model the price of houses with the available independent variables. This model 
 will then be used by the management to understand how exactly the prices vary with the variables. 
 Business team can accordingly manipulate the strategy of the firm and concentrate on areas that 
